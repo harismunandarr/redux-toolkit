@@ -1,0 +1,14 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Product 5",
+      "price": 5000
+    },
+    {
+      "title": "Sit laboriosam cul",
+      "price": "200",
+      "id": 2
+    }
+  ]
+}
